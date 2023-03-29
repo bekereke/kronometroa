@@ -12,6 +12,7 @@ input.onButtonPressed(Button.B, function () {
     basic.showString("clear")
     segunduak = 0
     segundu_ehunenak = 0
+    AB_sakatuta = false
 })
 let AB_sakatuta = false
 let segunduak = 0
