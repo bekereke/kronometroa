@@ -15,11 +15,14 @@ daitezke: baldintzak (if).
 
 
 
-Programatzeko beharrezkoak diren ezaugarriak ulertzen eta haien behar izanaz jabetzen hasiko gara. Irakasleak egingo du sarrera, eta banaka ikusiko ditugu. **Praktika bat egingo dugu: BETEKIZUNAK: A botoia sakatzean agertuko dira segunduak eta segundu ehunenak. B botoia sakatuta geratuko da kontagailua. A+B sakatuta kontagailua hasiko da atzera kontagailu baten ostean (3, 2, 1..).**
+Programatzeko beharrezkoak diren ezaugarriak ulertzen eta haien behar izanaz jabetzen hasiko gara. Irakasleak egingo du sarrera, eta banaka ikusiko ditugu. Praktika bat egingo dugu: 
+
+### BETEKIZUNAK:
+**A botoia sakatzean agertuko dira segunduak eta segundu ehunenak. B botoia sakatuta geratuko da kontagailua. A+B sakatuta kontagailua hasiko da atzera kontagailu baten ostean (3, 2, 1..).**
 
 
 
-*Erantsita daukazuen kodea moldatu beharko duzue A+B botoiek egin beharrekoa programatzeko. Gainera, dagoen bezala, automatikoki hasten dela aintzat hartu!
+*Erantsita daukazuen kodea moldatu beharko duzue A+B botoiek egin beharrekoa programatzeko. Gainera, dagoen bezala, automatikoki hasten dela aintzat hartu!*
 
 
 ## Gehigarri gisa ezarri
