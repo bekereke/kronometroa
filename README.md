@@ -11,7 +11,7 @@ era errepikakorrean egin behar dituztenez, etengabe kopiatzen ibili
 ordez, zenbat aldiz errepikatzea nahi den agindu dakieke: **begiztak
 (loops)** deitzen dira horretarako beharko dituzun baliabideak. 
 Begiztak zein aldagiak eguneratzeko baldintza batzuk ezarri
-daitezke: baldintzak (if).
+daitezke: **baldintzak (if)**.
 
 
 
@@ -19,7 +19,7 @@ Programatzeko beharrezkoak diren ezaugarriak ulertzen eta haien behar izanaz jab
 
 ## BETEKIZUNAK: 
 ### testua
-** A botoia sakatzean agertuko dira segunduak eta segundu ehunenak. B botoia sakatuta geratuko da kontagailua. A+B sakatuta kontagailua hasiko da atzera kontagailu baten ostean (3, 2, 1..). **
+**A botoia sakatzean agertuko dira segunduak eta segundu ehunenak. B botoia sakatuta geratuko da kontagailua. A+B sakatuta kontagailua hasiko da atzera kontagailu baten ostean (3, 2, 1..).**
 
 * Erantsita daukazuen kodea moldatu beharko duzue A+B botoiek egin beharrekoa programatzeko. Gainera, dagoen bezala, automatikoki hasten dela aintzat hartu!*
 
