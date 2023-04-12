@@ -1,29 +1,49 @@
 
-> Open this page at [https://bekereke.github.io/kronometroa/](https://bekereke.github.io/kronometroa/)
+> Ireki ezazu orria hemen: [https://bekereke.github.io/kronometroa/](https://bekereke.github.io/kronometroa/)
 
-## Use as Extension
+## Zeregina
+Programetan egindako kalkuluen emaitzak partzialak, edota pantailan ageri
+beharrekoak direnak ere memorian gorde behar dira. Aldatu daitezke; eta,
+memoria leku horrek izena izan beharko du bilatu ahal izateko eta aldatu
+ahal izateko: **aldagaiak (variables)** deitzen dira horretarako beharko 
+dituzun baliabideak. Bestetik, programek hainbat agindu
+era errepikakorrean egin behar dituztenez, etengabe kopiatzen ibili
+ordez, zenbat aldiz errepikatzea nahi den agindu dakieke: **begiztak
+(loops)** deitzen dira horretarako beharko dituzun baliabideak. 
+Begiztak zein aldagiak eguneratzeko baldintza batzuk ezarri
+daitezke: baldintzak (if).
 
-This repository can be added as an **extension** in MakeCode.
+
+
+Programatzeko beharrezkoak diren ezaugarriak ulertzen eta haien behar izanaz jabetzen hasiko gara. Irakasleak egingo du sarrera, eta banaka ikusiko ditugu. **Praktika bat egingo dugu: BETEKIZUNAK: A botoia sakatzean agertuko dira segunduak eta segundu ehunenak. B botoia sakatuta geratuko da kontagailua. A+B sakatuta kontagailua hasiko da atzera kontagailu baten ostean (3, 2, 1..).**
+
+
+
+*Erantsita daukazuen kodea moldatu beharko duzue A+B botoiek egin beharrekoa programatzeko. Gainera, dagoen bezala, automatikoki hasten dela aintzat hartu!
+
+
+## Gehigarri gisa ezarri
+
+Biltegi honetako kodea berrerabili dezakezu **gehigarri** gisa MakeCoden. Honela:
+
+* ireki [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* sakatu **New Project**
+* sakatu **Extensions** engranaia menuaren barruan.
+* bilatu **https://github.com/bekereke/kronometroa** eta "import" sakatu
+
+## Aldatu egitasmo hau ![Lanean etiketa ezarri](https://github.com/bekereke/kronometroa/workflows/MakeCode/badge.svg)
+Biltegi hau aldatzekoi MakeCode plataforman.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/bekereke/kronometroa** and import
+* sakatu **Import** eta ondoren **Import URL**
+* itsatsi **https://github.com/bekereke/kronometroa** eta "import" sakatu
 
-## Edit this project ![Build status badge](https://github.com/bekereke/kronometroa/workflows/MakeCode/badge.svg)
+## Blokeen aurrebista
 
-To edit this repository in MakeCode.
+Irudi honek erakusten du azken bertsioaren bloke programazio bidezko kodea.
+Irudi hau eguneratzen minutu batzuk behar ditzake.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/bekereke/kronometroa** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/bekereke/kronometroa/raw/master/.github/makecode/blocks.png)
+![Blokeen errendaturiko aurrebista](https://github.com/bekereke/kronometroa/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
