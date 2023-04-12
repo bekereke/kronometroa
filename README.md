@@ -17,13 +17,18 @@ daitezke: baldintzak (if).
 
 Programatzeko beharrezkoak diren ezaugarriak ulertzen eta haien behar izanaz jabetzen hasiko gara. Irakasleak egingo du sarrera, eta banaka ikusiko ditugu. Praktika bat egingo dugu: 
 
-### BETEKIZUNAK:
-**A botoia sakatzean agertuko dira segunduak eta segundu ehunenak. B botoia sakatuta geratuko da kontagailua. A+B sakatuta kontagailua hasiko da atzera kontagailu baten ostean (3, 2, 1..).**
+## BETEKIZUNAK: 
+### testua
+** A botoia sakatzean agertuko dira segunduak eta segundu ehunenak. B botoia sakatuta geratuko da kontagailua. A+B sakatuta kontagailua hasiko da atzera kontagailu baten ostean (3, 2, 1..). **
 
+* Erantsita daukazuen kodea moldatu beharko duzue A+B botoiek egin beharrekoa programatzeko. Gainera, dagoen bezala, automatikoki hasten dela aintzat hartu!*
 
+### entzungarri
+* Sakatu esteka eta ondorengo erlaitzeko audio pistan play sakatu betekizuna entzuteko [https://tts.elhuyar.eus/ahots_sintesia/](https://tts.elhuyar.eus/ahots_sintesia/ahots_sintesia_entzun/?testua=+A+botoia+sakatzean+agertuko+dira+segunduak+eta+segundu+ehunenak.+B+botoia+sakatuta+geratuko+da+kontagailua.+A%2BB+sakatuta+kontagailua+hasiko+da+atzera+kontagailu+baten+ostean+%283%2C+2%2C+1..%29.%0D%0A&hizkuntza=eu&gender=F&speed=75)
 
-*Erantsita daukazuen kodea moldatu beharko duzue A+B botoiek egin beharrekoa programatzeko. Gainera, dagoen bezala, automatikoki hasten dela aintzat hartu!*
-
+### simulazioa
+* ireki eta ezkerraldeko "launch in fullscreen" botoia sakatu simulazioa pantaila osora ezartzeko 
+[https://makecode.microbit.org/#editor](https://makecode.microbit.org/#editor)
 
 ## Gehigarri gisa ezarri
 
@@ -34,7 +39,8 @@ Biltegi honetako kodea berrerabili dezakezu **gehigarri** gisa MakeCoden. Honela
 * sakatu **Extensions** engranaia menuaren barruan.
 * bilatu **https://github.com/bekereke/kronometroa** eta "import" sakatu
 
-## Aldatu egitasmo hau ![Lanean etiketa ezarri](https://github.com/bekereke/kronometroa/workflows/MakeCode/badge.svg)
+## Jarraitu lanean hau oinarri gisa hartuta ![Lanean etiketa ezarri](https://github.com/bekereke/kronometroa/workflows/MakeCode/badge.svg)
+
 Biltegi hau aldatzekoi MakeCode plataforman.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
