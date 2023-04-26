@@ -1,5 +1,6 @@
 input.onButtonPressed(Button.A, function () {
-    basic.showString("" + segunduak + "' " + segundu_ehunenak + "\"")
+    denbora = "" + segunduak + "' " + segundu_ehunenak + "\""
+    basic.showString(denbora)
 })
 input.onButtonPressed(Button.AB, function () {
     for (let index = 0; index <= 2; index++) {
@@ -9,11 +10,13 @@ input.onButtonPressed(Button.AB, function () {
     AB_sakatuta = !(AB_sakatuta)
 })
 input.onButtonPressed(Button.B, function () {
-    basic.showString("clear")
+    basic.showString("garbi")
     segunduak = 0
     segundu_ehunenak = 0
+    denbora = "" + segunduak + "' " + segundu_ehunenak + "\""
     AB_sakatuta = false
 })
+let denbora = ""
 let AB_sakatuta = false
 let segunduak = 0
 let segundu_ehunenak = 0
